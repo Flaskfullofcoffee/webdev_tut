@@ -2,7 +2,9 @@
   margin: 0;
   padding: 0;
   list-style-type: none;
-  text-decoration: none; }
+  text-decoration: none;
+  color: #000;
+}
 
 body {
   background-image: url("/images/home.png");
@@ -33,3 +35,8 @@ body {
   font-size: 1.25rem; }
 
 /*# sourceMappingURL=styles.css.map */
+
+
+
+
+/* ----- LOGIN.HTML STYLES ----- */
