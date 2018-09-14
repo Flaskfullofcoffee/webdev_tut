@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "",
-"sources": [],
+"mappings": "AAAA,IAAK;EACH,gBAAgB,EAAE,MAAM;;AAG1B,KAAM;EACJ,eAAe,EAAE,YAAY;;AAG/B,MAAO;EACL,KAAK,EAAE,IAAI;;AAGb,IAAK;EACH,KAAK,EAAE,GAAG;;AAEZ,KAAM;EACJ,KAAK,EAAE,IAAI;;AAEb,OAAQ;EACN,KAAK,EAAE,MAAM;;AAEf,KAAM;EACJ,KAAK,EAAE,OAAO",
+"sources": ["../scss/sandbox.scss"],
 "names": [],
 "file": "sandbox.css"
 }
