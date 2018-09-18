@@ -16,15 +16,15 @@
 var database = [
   {
     username: 'billy',
-    password: '1234',
+    password: 'billy',
   },
   {
     username: 'john',
-    password: '4321',
+    password: 'john',
   },
   {
     username: 'jake',
-    password: '0000',
+    password: 'jake',
   },
 ];
 
