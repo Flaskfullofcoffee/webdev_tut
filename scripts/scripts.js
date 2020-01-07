@@ -10,7 +10,8 @@
 //     alert('Congrats on your first year of driving');
 //   }
 // }
-
+var _ = require('lodash');
+console.log(_);
 
 
 var database = [
