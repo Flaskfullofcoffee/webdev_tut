@@ -22,7 +22,7 @@
   "devDependencies": {
     "browser-sync": "^2.24.7",
     "concurrently": "^4.0.1",
-    "node-sass": "^4.9.3"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "lodash": "^4.17.11"
